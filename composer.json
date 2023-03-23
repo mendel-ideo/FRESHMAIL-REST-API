@@ -1,5 +1,5 @@
 {
-    "name": "mendel-ideo/rest-api",
+    "name": "mendel-ideo/freshmail-rest-api",
     "description": "A php library which implements the functionality of FreshMail REST API.",
     "keywords": ["freshmail", "rest"],
     "type": "library",
